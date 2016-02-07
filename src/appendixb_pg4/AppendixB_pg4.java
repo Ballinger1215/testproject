@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package appendixb_pg4;
 
 import java.util.Scanner;
@@ -12,9 +8,7 @@ import java.util.Scanner;
  */
 public class AppendixB_pg4 {
         
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
             Automobile markCar = new Automobile();
             Automobile henryCar = new Automobile();      
